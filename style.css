@@ -7,33 +7,37 @@ body {
 
 .narrow-col {
 	height: 100%;
-	width: 35%; 
-	display: block
+	width: 35%;  
+	border: 1px white solid;
+	display: block 
 	
 }
 
 .wide-col { 
 	height: 100%; 
-	width: 65%;  
+	width: 65%;   
+	border: 1px white solid;
 	display: flex
   }
 
 .character { 
 	height: 75%;
 	width: 100%; 
+	border: 1px white solid;
 	display: flex
 } 
 
 .title { 
 	height: 25%; 
-	width: 100%;  
+	width: 100%;   
+	border: 1px white solid;
         display: flex
 }
 
 
 .game-col { 
 	height: 100%;
-	width: calc(100%/3);   
+	width: calc(100%/3);    
 	display: block; 
 } 
 

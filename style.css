@@ -41,7 +41,7 @@ body {
 .box {  
 	height: calc(100%/3); 
 	width: 100%;  
-	border: 2px white solid;
+	border: 1px white solid;
 	display: flex; 
 } 
 

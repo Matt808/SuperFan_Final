@@ -27,7 +27,7 @@ body {
 .title { 
 	height: 25%; 
 	width: 100%;
-    display: flex
+        display: flex
 }
 
 
@@ -51,7 +51,7 @@ body {
 
 
 .contain-image {
-	max-height: 90%;  
+	max-width: 90%;  
 }
 
 

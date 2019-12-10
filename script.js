@@ -64,6 +64,7 @@ function disappear(elem){
 function disappear2(elem){ 
     b.src = "images/Orange_fury.gif";
     j.src = "images/CB.png"; 
+    console.log("Detect")
 } 
 
 function disappear3(elem){ 

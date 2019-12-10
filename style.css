@@ -51,7 +51,8 @@ body {
 
 
 .contain-image {
-	max-width: 40%;  
+	max-width: 40%;   
+	margin: 0;
 }
 
 

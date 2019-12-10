@@ -50,6 +50,10 @@ body {
 } 
 
 
+.contain-image {
+	max-height: 90%;  
+}
+
 
 img { 
      filter: grayscale(1); 

@@ -7,26 +7,30 @@ body {
 
 .narrow-col {
 	height: 100%;
-	width: 35%;  
+	width: 35%; 
+	border: 1px white dotted;
 	display: block
 	
 }
 
 .wide-col { 
 	height: 100%; 
-	width: 65%; 
+	width: 65%;  
+	border: 1px white dotted;
 	display: flex
   }
 
 .character { 
 	height: 75%;
 	width: 100%; 
+	border: 1px white dotted;
 	display: flex
 } 
 
 .title { 
 	height: 25%; 
-	width: 100%; 
+	width: 100%;  
+	border: 1px white dotted;
         display: flex
 }
 

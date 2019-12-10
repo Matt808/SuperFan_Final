@@ -7,14 +7,16 @@ body {
 
 .narrow-col {
 	height: 100%;
-	width: 35%; 
+	width: 35%;  
+	border: 1px white solid;
 	display: block
 	
 }
 
 .wide-col { 
 	height: 100%; 
-	width: 65%;
+	width: 65%; 
+	border: 1px white solid;
 	display: flex
   }
 
@@ -36,7 +38,7 @@ body {
 .game-col { 
 	height: 100%;
 	width: calc(100%/3);   
-	background-color: dark-grey;
+	border: 1px white solid;
 	display: block; 
 } 
 

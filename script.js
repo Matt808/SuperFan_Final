@@ -62,7 +62,7 @@ function disappear(elem){
  
 
 function disappear2(elem){ 
-    b.src = "images/Orange_fury.gif";
+    b.src = "images/Orange_Fury.gif";
     j.src = "images/CB.png"; 
     console.log("Detect")
 } 

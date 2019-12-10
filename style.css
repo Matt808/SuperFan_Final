@@ -34,14 +34,14 @@ body {
 .game-col { 
 	height: 100%;
 	width: calc(100%/3);   
-	border: 1px dark_blue solid;
+	border: 1px white dotted;
 	display: block; 
 } 
 
 .box {  
 	height: calc(100%/3); 
 	width: 100%;  
-	border: 1px dark_blue solid;
+	border: 1px white dotted;
 	display: flex; 
 } 
 

@@ -61,13 +61,7 @@ img {
  } 
 
 /* When clicker hovers over image then it removes filter on image  */
-img:hover { 
-    filter: none; 
-}
 
-.button:active { 
-    transform: scale(0.8, 0.8);
-}
 
 .blue {background-color: #a2adbf;}
 .tan {background-color: #c8a36f;}

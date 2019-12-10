@@ -56,11 +56,6 @@ body {
 }
 
 
-img { 
-     filter: grayscale(1); 
- } 
-
-/* When clicker hovers over image then it removes filter on image  */
 
 
 .blue {background-color: #a2adbf;}
